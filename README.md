@@ -2,8 +2,6 @@
 
 **S**ervice & **P**ort **E**numeration with **C**overt **T**itle **R**econ **E**ngine
 
-> Authorized Internal Penetration Testing Only
-
 ---
 
 ## Features
