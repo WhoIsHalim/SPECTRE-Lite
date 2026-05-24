@@ -86,11 +86,6 @@ x 10.0.0.3:22     ssh OpenSSH 7.4      ← CLOSED
 
 ---
 
-## Disclaimer
-
-This tool is intended for **authorized internal penetration testing only**.  
-Always ensure you have written permission before scanning any network.
-
 ---
 
 *Developed by [WhoIsHalim](https://github.com/WhoIsHalim)*
