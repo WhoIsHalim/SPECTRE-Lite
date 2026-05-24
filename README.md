@@ -84,7 +84,6 @@ x 10.0.0.3:22     ssh OpenSSH 7.4      ← CLOSED
 ~ 10.0.0.1:80     nginx 1.18 -> 1.24   ← CHANGED
 ```
 
----
 
 ---
 
